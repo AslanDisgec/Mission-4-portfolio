@@ -87,7 +87,7 @@ Cette cartographie sera un outil précieux pour :
 
 *Par souci de confidentialité, je ne peux pas révéler les plans complets de l'ENS. Voici un aperçu flouté de mon travail :*
 
-![Aperçu flouté de la cartographie Wi-Fi](./images/image2.jpeg)
+![Aperçu flouté de la cartographie Wi-Fi](./images/image2.jpg)
 
 ---
 
